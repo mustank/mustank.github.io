@@ -1,0 +1,28 @@
+[
+  {
+  "name": "Ford Mustang I",
+  "rok_rozpoczecia_produkcji" :1964,
+  "rok_zakonczenia_produkcji" :1973
+  },
+  {"name": "Ford Mustang II",
+  "rok_rozpoczecia_produkcji" :1973,
+  "rok_zakonczenia_produkcji" :1978
+  },
+  {"name": "Ford Mustang III",
+    "rok_rozpoczecia_produkcji" :1978,
+    "rok_zakonczenia_produkcji" :1993,
+  },
+  {"name": "Ford Mustang IV",
+    "rok_rozpoczecia_produkcji" :1993,
+    "rok_zakonczenia_produkcji" :2005
+
+  },
+  {"name": "Ford Mustang V",
+    "rok_rozpoczecia_produkcji" :2004,
+    "rok_zakonczenia_produkcji" :"teraz"
+  },
+  {"name": "Ford Mustang VI",
+    "rok_rozpoczecia_produkcji" :2014,
+    "rok_zakonczenia_produkcji" :"teraz"
+  }
+]
